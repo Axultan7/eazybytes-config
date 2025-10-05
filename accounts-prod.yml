@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhook APIs"
+  message: "Hey, welcome to EazyBank accounts related web APIs"
   contactDetails:
     name: "Dias Kabdualiev - Product Owner"
     email: "dias@eazybank.com"
