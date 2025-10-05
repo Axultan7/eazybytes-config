@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
     name: "Aksultan Turan - Developer"
-    email: "aksultan@eazybank.com"
+    email: "why@eazybank.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
