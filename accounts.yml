@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related dockersa APIs "
   contactDetails:
     name: "Aksultan Turan - Developer"
     email: "why@eazybank.com"
